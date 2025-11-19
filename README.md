@@ -14,13 +14,15 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 ## Code scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new page component, run:
+Angular CLI includes powerful code scaffolding tools. 
+
+To generate a new page component, run:
 
 ```bash
 ng generate component pages/component-name
 ```
 
-Angular CLI includes powerful code scaffolding tools. To generate a new partial component, run:
+To generate a new partial component, run:
 
 ```bash
 ng generate component components/component-name
